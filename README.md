@@ -19,8 +19,7 @@ Primeiro projeto: Tenha em mente que esse é meu primeiro projeto, então pode t
 Imersão Dev: Agradeço à Alura e ao Google Gemini pela oportunidade de participar dessa imersão e aprender tanto.
 Para rodar a aplicação:
 
-Clone o repositório: git clone https://seu-repositorio.git
-Abra o arquivo index.html: Você pode abrir o arquivo index.html em qualquer navegador.
+
 Contribuições:
 
 Se você quiser contribuir para o projeto, fique à vontade para abrir um pull request! Toda ajuda é bem-vinda.
